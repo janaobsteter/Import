@@ -1,0 +1,3 @@
+Length Class Mode
+25 data.frame list
+ 6 -none- list
